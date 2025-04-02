@@ -66,6 +66,14 @@ F1 interface connects the gNB-CU to the gNB-DU, enabling communication and data 
 - Uses UDP (User Datagram Protocol) and GTP-U (GPRS Tunneling Protocol - User Plane) over IP for the transport layer.
 
 
+## E1 Interface
+- **3GPP TS 38.460**:  E1 general aspects and principles
+
+**TEIDs allocation**
+- The gNB-CU-UP is responsible for the allocation of the F1-U UL GTP TEID for each data radio bearer. 
+- The gNB-CU-UP is responsible for the allocation of the S1-U DL GTP TEID for each E-RAB and the NG-U DL GTP TEID for each PDU Session. 
+- The gNB-CU-UP is responsible for the allocation of the X2-U DL/UL GTP TEID or the Xn-U DL/UL GTP TEID for each data radio bearer.
+
 
 ![plot](https://github.com/Anil79/gNB-CU/blob/main/gNB_CU_DIA.png)
 
