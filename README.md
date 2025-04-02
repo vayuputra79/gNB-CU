@@ -11,6 +11,13 @@ Central Unit (CU): It is a logical node that includes the gNB functions like Tra
 
 
 
+**Architecture for separation of gNB-CU-CP and gNB-CU-UP**
+
+
+
+
+
+
 
 
 
