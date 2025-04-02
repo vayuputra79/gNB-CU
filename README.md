@@ -59,9 +59,13 @@ F1 interface connects the gNB-CU to the gNB-DU, enabling communication and data 
 - Handles signaling and control plane functions between the gNB-CU-CP (Central Unit Control Plane) and the gNB-DU.
 - Uses SCTP (Stream Control Transmission Protocol) over IP for the transport layer and F1AP (F1 Application Protocol) for signaling. 
 
+![plot](https://github.com/Anil79/gNB-CU/blob/main/f1_c_ps.png)
+
 **F1-U (User Plane)**  
 - Facilitates the transfer of user data between the gNB-CU-UP (Central Unit User Plane) and the gNB-DU. 
 - Uses UDP (User Datagram Protocol) and GTP-U (GPRS Tunneling Protocol - User Plane) over IP for the transport layer.
+
+![plot](https://github.com/Anil79/gNB-CU/blob/main/f1_u_ps.png)
 
 
 ## E1 Interface
