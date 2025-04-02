@@ -35,7 +35,20 @@ NOTE 4: Data forwarding between gNB-CU-UPs during intra-gNB-CU-CP handover withi
 
 ## Interfaces
 
-**F1 Interface:**  F1 interface connects the gNB-CU to the gNB-DU, enabling communication and data transfer between
+- **F1AP**
+- **E1AP**
+- **NGAP**
+- **E2AP**
+- **XnAP**
+- **X2AP**
+- **E2AP**
+- **W1AP**
+- 
+
+
+### F1 Interface  
+
+F1 interface connects the gNB-CU to the gNB-DU, enabling communication and data transfer between
 
 **F1-C (Control Plane)**  
 - Handles signaling and control plane functions between the gNB-CU-CP (Central Unit Control Plane) and the gNB-DU.
