@@ -33,7 +33,7 @@ NOTE 3: The gNB-CU-CP selects the appropriate gNB-CU-UP(s) for the requested ser
 
 NOTE 4: Data forwarding between gNB-CU-UPs during intra-gNB-CU-CP handover within a gNB may be supported by Xn-U.
 
-**Interfaces**
+## Interfaces
 
 **F1 Interface:**  F1 interface connects the gNB-CU to the gNB-DU, enabling communication and data transfer between
 
