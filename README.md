@@ -7,6 +7,8 @@ Central Unit (CU): It is a logical node that includes the gNB functions like Tra
 
 **3GPP TS 38.401**:  NG-RAN Architecture description
 
+[NG-RAN Architecture description](./ng_ran_architecture.png)
+
 
 
 
