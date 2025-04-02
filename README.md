@@ -60,7 +60,7 @@ F1 interface connects the gNB-CU to the gNB-DU, enabling communication and data 
 
 
 
-![plot](https://github.com/Anil79/gNB-CU/blob/gNB_CU_DIA.drawio.png)
+![plot](https://github.com/Anil79/gNB-CU/blob/gNB_CU_DIA.png)
 
 
 
