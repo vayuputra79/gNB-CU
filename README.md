@@ -13,6 +13,23 @@ Central Unit (CU): It is a logical node that includes the gNB functions like Tra
 
 ![plot](https://github.com/Anil79/gNB-CU/blob/main/gnb_cu.png)
 
+[3GPP TS 138 401]
+https://www.etsi.org/deliver/etsi_ts/138400_138499/138401/16.03.00_60/ts_138401v160300p.pdf
+
+- A gNB may consist of a gNB-CU-CP, multiple gNB-CU-UPs and multiple gNB-DUs; 
+- The gNB-CU-CP is connected to the gNB-DU through the F1-C interface; 
+- The gNB-CU-UP is connected to the gNB-DU through the F1-U interface; 
+- The gNB-CU-UP is connected to the gNB-CU-CP through the E1 interface; 
+- One gNB-DU is connected to only one gNB-CU-CP; 
+- One gNB-CU-UP is connected to only one gNB-CU-CP; 
+- One gNB-DU can be connected to multiple gNB-CU-UPs under the control of the same gNB-CU-CP; 
+- One gNB-CU-UP can be connected to multiple DUs under the control of the same gNB-CU-CP; 
+
+NOTE 1: For resiliency, a gNB-DU and/or a gNB-CU-UP may be connected to multiple gNB-CU-CPs by appropriate implementation. 
+NOTE 2: The connectivity between a gNB-CU-UP and a gNB-DU is established by the gNB-CU-CP using Bearer Context Management functions. 
+NOTE 3: The gNB-CU-CP selects the appropriate gNB-CU-UP(s) for the requested services for the UE. In case of multiple CU-UPs they belong to same security domain as defined in TS 33.210 [18]. 
+NOTE 4: Data forwarding between gNB-CU-UPs during intra-gNB-CU-CP handover within a gNB may be supported by Xn-U.
+
 
 
 
