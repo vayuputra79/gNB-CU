@@ -76,6 +76,10 @@ F1 interface connects the gNB-CU to the gNB-DU, enabling communication and data 
 - The gNB-CU-UP is responsible for the allocation of the S1-U DL GTP TEID for each E-RAB and the NG-U DL GTP TEID for each PDU Session. 
 - The gNB-CU-UP is responsible for the allocation of the X2-U DL/UL GTP TEID or the Xn-U DL/UL GTP TEID for each data radio bearer.
 
+**gNB-CU-UP will uses F1-U Protocol Stack**
+
+
+
 
 # Disaggregated RAN Architecture
 
