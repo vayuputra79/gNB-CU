@@ -43,10 +43,10 @@ NOTE 4: Data forwarding between gNB-CU-UPs during intra-gNB-CU-CP handover withi
 - **X2AP**
 - **E2AP**
 - **W1AP**
-- 
 
 
-### F1 Interface  
+
+## F1 Interface  
 
 F1 interface connects the gNB-CU to the gNB-DU, enabling communication and data transfer between
 
