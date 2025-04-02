@@ -33,6 +33,22 @@ NOTE 3: The gNB-CU-CP selects the appropriate gNB-CU-UP(s) for the requested ser
 
 NOTE 4: Data forwarding between gNB-CU-UPs during intra-gNB-CU-CP handover within a gNB may be supported by Xn-U.
 
+**Interfaces**
+
+**F1 Interface:**  F1 interface connects the gNB-CU to the gNB-DU, enabling communication and data transfer between
+
+**F1-C (Control Plane)**  
+- Handles signaling and control plane functions between the gNB-CU-CP (Central Unit Control Plane) and the gNB-DU.
+- Uses SCTP (Stream Control Transmission Protocol) over IP for the transport layer and F1AP (F1 Application Protocol) for signaling. 
+
+**F1-U (User Plane)**  
+- Facilitates the transfer of user data between the gNB-CU-UP (Central Unit User Plane) and the gNB-DU. 
+- Uses UDP (User Datagram Protocol) and GTP-U (GPRS Tunneling Protocol - User Plane) over IP for the transport layer.
+
+
+
+
+
 
 
 
