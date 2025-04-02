@@ -14,7 +14,7 @@ Central Unit (CU): It is a logical node that includes the gNB functions like Tra
 ![plot](https://github.com/Anil79/gNB-CU/blob/main/gnb_cu.png)
 
 [3GPP TS 138 401]
-https://www.etsi.org/deliver/etsi_ts/138400_138499/138401/16.03.00_60/ts_138401v160300p.pdf
+https://www.etsi.org/deliver/etsi_ts/138400_138499/138401/16.03.00_60/ts_138401v160300p.pdf{:target="_blank"}
 
 - A gNB may consist of a gNB-CU-CP, multiple gNB-CU-UPs and multiple gNB-DUs; 
 - The gNB-CU-CP is connected to the gNB-DU through the F1-C interface; 
