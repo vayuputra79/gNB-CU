@@ -7,7 +7,7 @@ Central Unit (CU): It is a logical node that includes the gNB functions like Tra
 
 
 - **3GPP TS 38.401**:  NG-RAN Architecture description
-- **3GPP TS 38.473**:  NG-RAN; F1 application protocol (F1AP)
+- **3GPP TS 38.473**:  F1 Application Protocol (F1AP)
 - **3GPP TS 38.463**:  E1 Application Protocol (E1AP) 
 - **3GPP TS 38.413**:  NG Application Protocol (NGAP)
 - **3GPP TS 38.423**:  Xn Application Protocol (XnAP)
