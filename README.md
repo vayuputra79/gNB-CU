@@ -9,10 +9,9 @@ Central Unit (CU): It is a logical node that includes the gNB functions like Tra
 
 ![plot](https://github.com/Anil79/gNB-CU/blob/main/ng_ran_architecture.png)
 
-
-
 **Architecture for separation of gNB-CU-CP and gNB-CU-UP**
 
+![plot](https://github.com/Anil79/gNB-CU/blob/main/gnb_cu.png)
 
 
 
