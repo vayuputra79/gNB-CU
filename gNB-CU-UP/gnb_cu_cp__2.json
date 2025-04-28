@@ -1,0 +1,14 @@
+{
+	"ID" : 1,
+	"Name" : "gnb-cu-up-1",
+	"BearerContextCount" : 500,
+	"E1AP_Server" : {
+		"IPs" : ["192.168.149.75"],
+		"Port" : 38462
+	},
+	"Supported_PLMNs" : [
+		{ "PLMN-ID" : "04F020" },
+		{ "PLMN-ID" : "04F001" }
+	],
+	"Log_Path" : "./gnu_cu_cp_2__logs/"
+}
